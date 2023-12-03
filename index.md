@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-# ![logo](/professionalheadshot.jpg){: height="130px" width="150px" style="float:left; padding-right:10px" }
+# ![logo](/professionalheadshot.jpg){: height="140px" width="155px" style="float:left; padding-right:10px" }
 
 
 I'm a first year Master's student at Stanford University studying Statistics and Data Science. I graduated from Carnegie Mellon University in 2021 with a B.S. in Economics and Statistics and then spent the next 2 years working at hedge fund [Bridgewater Associates](https://www.bridgewater.com/) as a Portfolio Associate.
