@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-# ![headshot](/professionalheadshot.jpg){: height="140px" width="155px" style="float:left; padding-right:12px" }
+# ![headshot](/professionalheadshot.jpg){: height="150px" width="159px" style="float:left; padding-right:12px" }
 
 
 
@@ -12,4 +12,4 @@ I'm a first year Master's student at Stanford University studying Statistics and
 
 My interests lie broadly in the quantitative trading, portfolio management, causal inference, and network science.
 
-You contact me at krishnanananya@gmail.com or through my [LinkedIn](https://www.linkedin.com/in/ananyakrishnan/)
+Feel free to contact me at krishnanananya@gmail.com or through my [LinkedIn](https://www.linkedin.com/in/ananyakrishnan/)
