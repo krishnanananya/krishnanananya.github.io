@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-# ![headshot](/professionalheadshot.jpg){: height="150px" width="159px" style="float:left; padding-right:12px" }
+# ![headshot](/professionalheadshot.jpg){: height="140px" width="155px" style="float:left; padding-right:12px" }
 
 
 
