@@ -4,7 +4,7 @@ title: "About Me"
 ---
 
 <img align="left" width="130" height="150" src="/professionalheadshot.jpg">
-[logo](/professionalheadshot.jpg) Outdated Plugin Notifier
+# ![logo](/professionalheadshot.jpg) Outdated Plugin Notifier
 
 
 
