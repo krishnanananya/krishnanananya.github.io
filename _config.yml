@@ -16,9 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/ananya.pdf", title: "CV"}
+  - {file: "ananya.pdf", title: "CV"}
   - {file: "index.md", title: "About Me"}
-  - {file: "rsrch.md", title: "Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ananyakr@stanford.edu"}
